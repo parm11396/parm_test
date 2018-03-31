@@ -2,3 +2,5 @@
  Parm : Hi Fateh,How are you ?
  Fateh : yeah! I am great Thanks for asking .
 	so, what about you ?
+ Parm : oh! I am fine , Thank you?
+	what are you doing ?
