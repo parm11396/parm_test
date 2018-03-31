@@ -1,1 +1,2 @@
- this is message from fateh singh
+ Fateh : this is message from fateh singh
+ Parm : Hi Fateh,How are you ?
